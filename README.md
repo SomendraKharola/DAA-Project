@@ -13,3 +13,8 @@ Hello!
 8. To view the code for the secondary objective -- i.e the sub-project wherein we discuss "Finding Crucial Connections in a Power Grid Whose Failure Would Split the System" -- please view "ProjectSubmission_SomdasTeam.py".
 9. To view the output of "ProjectSubmission_SomdasTeam.py" please view "ProjectSubmission_SomdasTeam_Output.pdf".
 10. To view the project report please view "DAA_Project_SomdasTeam.pdf".
+
+Thank you!
+
+All good wishes,
+Somda's Team
