@@ -16,6 +16,7 @@ Hello!
 9. To **view the code for the secondary objective (the SUB-PROJECT)** -- i.e the sub-project wherein we discuss "Finding Crucial Connections in a Power Grid Whose Failure Would Split the System" -- please view "Secondary_Project_SomdasTeam.py".
 10. To view the output of "Secondary_Project_SomdasTeam.py" please view "Secondary_Project_SomdasTeam_Output.pdf".
 11. **To view the COMPLETE PROJECT REPORT please view "Project_Report_SomdasTeam.pdf"**.
+12. For the sub-project, we used variants of the primary source code, titled "Secondary-Project-SomdasTeam.py", which are mere improvisations of the same, and hence are not shared. However, the primary source code is shared on the GITHUB repository. Nevertheless, the outputs of those variants are shared on the GITHUB repository. They are titled: "Average-Fragmentation-Vs-AP-Multipoint Attack.pdf" and "Trial-Runs-10-AP-Multipoint Attack.pdf"
 
 Thank you!
 
