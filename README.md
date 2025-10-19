@@ -12,7 +12,7 @@ Hello!
 7. To view the output of "Primary_Project_SomdasTeam.py" please view "Primary_Project_SomdasTeam.pdf".
 8. To view the code for the secondary objective (the SUB-PROJECT) -- i.e the sub-project wherein we discuss "Finding Crucial Connections in a Power Grid Whose Failure Would Split the System" -- please view "Secondary_Project_SomdasTeam.py".
 9. To view the output of "Secondary_Project_SomdasTeam.py" please view "Secondary_Project_SomdasTeam_Output.pdf".
-10. To view the project report please view "DAA_Project_SomdasTeam.pdf".
+10. To view the COMPLETE PROJECT REPORT please view "Project_Report_SomdasTeam.py".
 
 Thank you!
 
