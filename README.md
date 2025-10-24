@@ -3,7 +3,7 @@ DAA Project
 
 Hello!
 
-1. Ensure you have downloaded the following six datasets in this GitHub repository into a particular folder. The six datasets are: "as20000102.txt", "as-skitter.txt", "power_grid_uci.txt", "power-US-Grid.txt", "roadNet-CA.txt", "roadNet-PA.txt", and the one other small-network "test.txt".
+1. Please, kindly ensure you have downloaded the following six datasets in this GitHub repository into a particular folder. The six datasets are: "as20000102.txt", "as-skitter.txt", "power_grid_uci.txt", "power-US-Grid.txt", "roadNet-CA.txt", "roadNet-PA.txt", and the one other small-network "test.txt".
 2. "as-skitter.txt" is not uploaded to the GitHub repository given its LARGE SIZE. Please download it form here: https://snap.stanford.edu/data/as-Skitter.html
 3. "roadNet-CA.txt" is not uploaded to the GitHub repository given its LARGE SIZE. Please download it form here: https://snap.stanford.edu/data/roadNet-CA.html
 4. "roadNet-PA.txt" is not uploaded to the GitHub repository given its LARGE SIZE. Please download it form here: https://snap.stanford.edu/data/roadNet-PA.html
